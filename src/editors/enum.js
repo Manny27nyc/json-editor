@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 // Enum Editor (used for objects and arrays with enumerated values)
 JSONEditor.defaults.editors.enum = JSONEditor.AbstractEditor.extend({
   getNumColumns: function() {

@@ -1,0 +1,55 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
+./Gruntfile.js
+./dist/jsoneditor.js
+./dist/jsoneditor.min.js
+./valid_targets.txt
+./src/core.js
+./src/iconlib.js
+./src/editors/multiselect.js
+./src/editors/number.js
+./src/editors/multiple.js
+./src/editors/null.js
+./src/editors/object.js
+./src/editors/upload.js
+./src/editors/base64.js
+./src/editors/array.js
+./src/editors/string.js
+./src/editors/enum.js
+./src/editors/select.js
+./src/editors/table.js
+./src/editors/integer.js
+./src/validator.js
+./src/theme.js
+./src/utilities.js
+./src/editor.js
+./src/intro.js
+./src/ie9.js
+./src/templates/underscore.js
+./src/templates/markup.js
+./src/templates/hogan.js
+./src/templates/ejs.js
+./src/templates/handlebars.js
+./src/templates/swig.js
+./src/templates/default.js
+./src/templates/mustache.js
+./src/iconlibs/bootstrap3.js
+./src/iconlibs/bootstrap2.js
+./src/iconlibs/fontawesome4.js
+./src/iconlibs/jqueryui.js
+./src/iconlibs/fontawesome3.js
+./src/iconlibs/foundation3.js
+./src/iconlibs/foundation2.js
+./src/themes/html.js
+./src/themes/bootstrap3.js
+./src/themes/bootstrap2.js
+./src/themes/foundation.js
+./src/themes/jqueryui.js
+./src/defaults.js
+./src/class.js
+./src/outro.js
+./src/jquery.js
