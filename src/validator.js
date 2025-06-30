@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 JSONEditor.Validator = Class.extend({
   init: function(jsoneditor,schema) {
     this.jsoneditor = jsoneditor;

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 JSONEditor.defaults.templates.ejs = function() {
   if(!window.EJS) return false;
 

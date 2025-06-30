@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Set the default theme
 JSONEditor.defaults.theme = 'html';
 

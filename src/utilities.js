@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 var $isplainobject = function( obj ) {
   // Not own constructor property must be Object
   if ( obj.constructor &&

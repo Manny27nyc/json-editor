@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 JSONEditor.defaults.templates.default = function() {
   var expandVars = function(vars) {
     var expanded = {};

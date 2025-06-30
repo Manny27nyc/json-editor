@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 var JSONEditor = function(element,options) {
   options = $extend({},JSONEditor.defaults.options,options||{});
   this.element = element;

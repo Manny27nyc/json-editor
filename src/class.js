@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*jshint loopfunc: true */
 /* Simple JavaScript Inheritance
  * By John Resig http://ejohn.org/

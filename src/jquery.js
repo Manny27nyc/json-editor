@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * This is a small wrapper for using JSON Editor like a typical jQuery plugin.
  */
